@@ -1,0 +1,12 @@
+{
+	"name": "bradp/howdy",
+	"type": "wordpress-plugin",
+	"description": "Remove 'Howdy' from the admin bar.",
+	"license": "GPL-2.0-or-later",
+	"authors": [
+	  {
+		"name": "Brad Parbs",
+		"email": "brad@bradparbs.com"
+	  }
+	]
+}
